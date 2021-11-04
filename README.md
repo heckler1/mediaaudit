@@ -5,5 +5,5 @@ A simple Go program to build a report on the quality of a given directory of vid
 ## Usage
 
 ``` shell
-go run main.go Media/
+go run *.go Media/
 ```
